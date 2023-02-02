@@ -1,6 +1,14 @@
-- 👋 Hi, I’m Thomas Fercher
-- 👀 I’m interested in Software Development. 
-- 🌱 I’m currently developing with Flutter
-- 💞️ I’m looking to collaborate on cool projects
+Hi, I’m Thomas Fercher, Fullstack Developer 
+I have 3 years of experciene developing Cross Plattform Apps with Flutter and Dart.
+My goal is to provide beautiful and intuitive user experiences on all plattforms.
+
+My Skills include:
+  - Python 
+  - Java
+  - .NET
+  - UI/UX
+  - Rive 2D
+
+I am looking to work on new and innovative projects in the Web3 Space.
 - reach me at <thomas.fercher@outlook.com>
 
