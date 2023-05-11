@@ -1,11 +1,12 @@
 Hi, I’m Thomas Fercher, Fullstack Developer 
-I have 3 years of experciene developing Cross Plattform Apps with Flutter and Dart.
+I have 4 years of experciene developing Cross Plattform Apps with Flutter and Dart.
 My goal is to provide beautiful and intuitive user experiences on all plattforms.
 
 [Hop on my journey](https://legend-design.tech).
 
-My Skills include:
+My other Skills include:
   - Python 
+  - Rust
   - Java
   - .NET
   - UI/UX
