@@ -1,17 +1,27 @@
-Hi, I’m Thomas Fercher, Fullstack Developer 
-I have 4 years of experciene developing Cross Plattform Apps with Flutter and Dart.
-My goal is to provide beautiful and intuitive user experiences on all plattforms.
+Hi, I'm Thomas 👋
 
-[Hop on my journey](https://legend-design.tech).
+Fullstack developer from Graz, Austria, with 4 years of building cross-platform apps in Flutter & Dart. Lately I've been diving deep into system architecture, scaling, and playing around with LLMs – but I still love crafting beautiful UIs that just feel right.
 
-My other Skills include:
-  - Python 
-  - Rust
-  - Java
-  - .NET
-  - UI/UX
-  - Rive 2D
+**[📄 Check out my full CV](cv.md)**
 
-I am looking to work on new and innovative projects in the Web3 Space.
-- reach me at <thomas.fercher@outlook.com>
+Currently splitting my time between:
+- Building cool stuff at **IMENDO** (C#, .NET, React)
+- Leading technical decisions at **LegalSuite** (PostgreSQL, OpenSearch, CI/CD)
 
+What I bring to the table:
+- Building dev tools & packages that other devs actually enjoy using
+- Turning complex problems into simple solutions
+- Creating slick, intuitive user experiences across all platforms
+- Leading product development from "wouldn't it be cool if..." to production
+
+My toolbox:
+- **Core:** Flutter, Dart (it's my happy place)
+- **Frontend:** React, TypeScript
+- **Backend:** Python, Java, .NET, Node.js, bun
+- **Databases:** PostgreSQL, OpenSearch
+- **Cool stuff:** Rive2D, Figma, blockchain/Web3
+- **Emerging:** LLMs, system architecture
+
+I'm especially passionate about the Web3 space and building tools that push boundaries.
+
+Got an interesting project? Let's chat: thomas.fercher@outlook.com
