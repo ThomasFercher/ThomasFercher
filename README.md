@@ -24,6 +24,8 @@ My toolbox:
 
 I'm especially passionate about the Web3 space and building tools that push boundaries.
 
-Got an interesting project? Let's chat: thomas.fercher@outlook.com
+Got an interesting project? 
+Let's chat: thomas.fercher@outlook.com
+LinkedId: https://linkedin.com/in/thomas-fercher-8b5040211
 
 ![Thomas Fercher](https://raw.githubusercontent.com/ThomasFercher/ThomasFercher/main/p3.jpeg)
