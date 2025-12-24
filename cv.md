@@ -1,3 +1,5 @@
+![Thomas Fercher](https://raw.githubusercontent.com/ThomasFercher/ThomasFercher/main/p2.png)
+
 # Thomas Fercher
 **Fullstack Software Engineer | Flutter & Dart Expert | Problem Solver**  
 Graz, Styria, Austria
@@ -5,12 +7,7 @@ Graz, Styria, Austria
 - LinkedIn: https://www.linkedin.com/in/thomas-fercher-8b5040211/
 - Github: https://github.com/ThomasFercher
 
-
-
 ---
-
-![Thomas Fercher](https://raw.githubusercontent.com/ThomasFercher/ThomasFercher/main/p2.png)
-
 
 ## Profile
 Full Stack Developer and technical leader with deep expertise in **Flutter & Dart** and a passion for building high-quality, cross-platform applications. Recently expanded focus to **system architecture, scaling, databases, and LLMs** while maintaining strong mobile development roots. 
