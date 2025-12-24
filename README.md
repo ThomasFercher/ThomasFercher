@@ -26,4 +26,4 @@ I'm especially passionate about the Web3 space and building tools that push boun
 
 Got an interesting project? Let's chat: thomas.fercher@outlook.com
 
-![Thomas Fercher](https://raw.githubusercontent.com/ThomasFercher/ThomasFercher/main/p3.png)
+![Thomas Fercher](https://raw.githubusercontent.com/ThomasFercher/ThomasFercher/main/p3.jpeg)
