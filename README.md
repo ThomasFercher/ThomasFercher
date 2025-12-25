@@ -6,7 +6,7 @@ Fullstack developer from Graz, Austria, with 4 years of building cross-platform 
 
 Currently splitting my time between:
 - Building cool stuff at **IMENDO** (C#, .NET, React)
-- Leading technical decisions at **LegalSuite** (PostgreSQL, OpenSearch, CI/CD)
+- Leading technical decisions at **LegalSuite** (Bun, Flutter, Opensearch)
 
 What I bring to the table:
 - Building dev tools & packages that other devs actually enjoy using
